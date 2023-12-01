@@ -10,6 +10,7 @@ My favorite Ice Cream Flavors
 3. Vanilla
 
 ### Section 1.1
+This is a change made locally
 
 ### Section 1.2
 
