@@ -12,6 +12,8 @@ My favorite Ice Cream Flavors
 ### Section 1.1
 This is a change made locally
 
+Yet another change locally
+
 ### Section 1.2
 
 
